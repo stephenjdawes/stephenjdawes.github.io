@@ -1,5 +1,6 @@
 .body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 
@@ -8,23 +9,27 @@
   }
 
 .head {
-    font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
-  text-align: center;
 }
 
 
 .navbar {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
-  text-align: center;
-}
+  }
 
 h2 {
-  font-family: He;vetica;
   font-size: 32px;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size:14px; 
 }
